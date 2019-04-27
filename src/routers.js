@@ -1,3 +1,12 @@
+// import Router from 'vue-router';
+// import Vue from 'vue';
+//
+// export default new Router({
+//   routes:[
+//
+//   ]
+// })
+
 module.exports = function(router){
     //路由表
     router.map({

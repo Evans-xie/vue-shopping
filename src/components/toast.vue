@@ -1,3 +1,4 @@
+<template>
 <div class="toast {{customClass}}" transition="pop-fade">
   <span class="toast-text">{{ message }}</span>
 </div>
